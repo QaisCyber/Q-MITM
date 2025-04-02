@@ -1,0 +1,5 @@
+scapy
+colorama
+pyfiglet
+logging
+datetime
