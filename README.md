@@ -66,7 +66,7 @@ Time                IP Address          DNS Query
 Do you have ideas or improvements? Feel free to contribute! Fork the repository and submit a Pull Request.  
 
 ### 📬 **Contact:**
-📌 **GitHub:** [github.com/yourusername] 
+📌 **GitHub:** [github.com/QaisCyber] 
 
 ---
 
